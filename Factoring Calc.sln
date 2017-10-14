@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factoring Calc", "Factoring Calc.csproj", "{AFE9885C-8008-153F-001D-86FD17C9B4FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE9885C-8008-153F-001D-86FD17C9B4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE9885C-8008-153F-001D-86FD17C9B4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE9885C-8008-153F-001D-86FD17C9B4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE9885C-8008-153F-001D-86FD17C9B4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

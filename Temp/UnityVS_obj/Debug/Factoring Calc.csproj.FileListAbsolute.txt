@@ -1,0 +1,27 @@
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\Mono.Cecil.dll
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEngine.VR.dll
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEngine.VR.xml
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\Mono.Cecil.xml
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.xml
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_obj\Debug\Factoring Calc.csprojResolveAssemblyReference.cache
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\tatef\UnityPersonal\Factoring Calc\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
