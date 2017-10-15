@@ -36,29 +36,39 @@ public class factor : MonoBehaviour {
         aSqrt = Mathf.Sqrt(aNum);
         cSqrt = Mathf.Sqrt(cNum);
         Debug.Log(aSqrt + " " + cSqrt);
-        if ((aSqrt % 1 == 0 && cSqrt % 1 == 0) && (plusMinus1.text != "-" && plusMinus3.text != "-"))
-        {
-            factorTrinomial();
-        } else
-        {
-            factoring();
-        }
+        factoring();
+        //if ((aSqrt % 1 == 0 && cSqrt % 1 == 0) && (plusMinus1.text != "-" && plusMinus3.text != "-"))
+        //{
+        //    factorTrinomial();
+        //} else
+        //{
+        //    factoring();
+        //}
     }
 
     public void factoring()
     {
         int factorCount = 0;
-        int sqrt = (int)Mathf.Ceil(Mathf.Sqrt(cNum));
+        int sqrt = (int)Mathf.Ceil(cSqrt * aSqrt);
 
         // Start from 1 as we want our method to also work when numberToCheck is 0 or 1.
         for (int i = 1; i < sqrt; i++)
         {
+            if ((i + i) == bNum)
+            {
+                Debug.Log("ugh");
+            }
             if (cNum % i == 0)
             {
-                if (factorCount + i == bNum)
+                Debug.Log(cNum % i);
+                if ((factorCount + i) == bNum)
                 {
                     answer.gameObject.SetActive(true);
                     answer.text = "(x" + "+" + factorCount.ToString() + ")" + " " + "(x" + "+" + i.ToString() + ")";
+                } else if (factorCount * 2 == bNum || i * 2 == bNum)
+                {
+                    answer.gameObject.SetActive(true);
+                    answer.text = "(" + aSqrt + "x" + "+" + Mathf.Sqrt(i).ToString() + ")" + " " + "(x" + "+" + factorCount.ToString() + ")";
                 }
                 Debug.Log(factorCount + " " + i);
                 factorCount += 2;
